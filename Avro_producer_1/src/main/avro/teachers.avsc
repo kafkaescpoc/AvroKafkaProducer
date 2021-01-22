@@ -1,0 +1,19 @@
+{
+    "type": "record",
+    "name": "Teacher",
+    "namespace": "poc",
+    "fields": [
+        {
+            "name": "name",
+            "type": "string"
+        },
+        {
+            "name": "dept",
+            "type": "string"
+        },
+        {
+            "name": "salary",
+            "type": "long"
+        }
+    ]
+}
